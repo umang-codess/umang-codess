@@ -45,20 +45,6 @@ A web app that lets users search for movies and view details in real time — bu
 
 > Check out this project and more on my [Portfolio](https://umang-codess.github.io)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang-codess&show_icons=true&theme=radical&count_private=true" alt="Umang's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang-codess&theme=radical" alt="Umang's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-codess&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
