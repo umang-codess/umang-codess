@@ -17,7 +17,7 @@
 - 🎓 Currently a **2nd year student**, learning and building every day
 - 💻 Working towards becoming a **Full Stack AI Engineer**
 - 🌱 Currently focused on **strengthening my full stack fundamentals and diving deeper into AI/ML**
-- 🛠️ Comfortable across the stack — from building UIs to handling data with SQL and Python
+- 🛠️ Comfortable across the stack — from building UIs to handling data with SQL and also doing DSA with Python
 - 📫 Reach me at **dubeyumang000@gmail.com**
 - 🔗 More about me, my projects, and links (LinkedIn, email) on my **[Portfolio](https://umang-codess.github.io)**
 
