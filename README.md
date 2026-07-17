@@ -39,8 +39,12 @@
 ---
 
 ### 🌟 Featured Project
+#### 📍[ContextoMap-AI]
+ContextoMap AI is an advanced, client-side mobility intelligence platform designed to engineer optimal, context-aware transit vectors globally. Moving away from standard point-to-point static routing, the platform functions as a cognitive mobility engine. It dynamically synthesizes real-world meteorological data, geographic constraints, geopolitical land barriers, and highly localized user-profile priorities to output tailor-made multimodal route recommendations..
 
-#### 🎬 [Movie Searcher App]
+> Check out this project and more on my [Portfolio](https://umang-codess.github.io)
+
+#### 🎬 [WatchWise]
 A web app that lets users search for movies and view details in real time — built using front-end fundamentals with a focus on clean UI and smooth API-driven data fetching.
 
 > Check out this project and more on my [Portfolio](https://umang-codess.github.io)
