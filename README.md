@@ -16,7 +16,7 @@
 
 - 🎓 Currently a **2nd year student**, learning and building every day
 - 💻 Working towards becoming a **Full Stack AI Engineer**
-- 🌱 Currently focused on **strengthening my full stack fundamentals and diving deeper into AI/ML**
+- 🌱 Currently focused on **strengthening my full stack fundamentals and diving into AI**
 - 🛠️ Comfortable across the stack — from building UIs to handling data with SQL and also doing DSA with Python
 - 📫 Reach me at **dubeyumang000@gmail.com**
 - 🔗 More about me, my projects, and links (LinkedIn, email) on my **[Portfolio](https://umang-codess.github.io)**
@@ -26,15 +26,20 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=CSS3 &logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/git-4479A1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/git-4479A1?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Github-4479A1?style=for-the-badge&logo=GitHub &logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Vercel-F7DF1E?style=for-the-badge&logo=Vercel &logoColor=black" />
+   <img src="https://img.shields.io/badge/APIs-20232A?style=for-the-badge&logo=APIs&logoColor=61DAFB" /> 
+  
 </p>
 
 ---
